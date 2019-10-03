@@ -1,0 +1,7 @@
+{
+  "name": "pluggable-forms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Ballesteros <davibq@gmail.com>",
+  "license": "MIT"
+}
