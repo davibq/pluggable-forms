@@ -13,3 +13,6 @@ Just send it your models! Based on the models you send, it will:
   3. Validate every item before saving it.
   4. Show error messages you return.
   5. Call hooks in order to execute any side effect you'll need (beforeSave, afterSave).
+
+# Current Status
+*WIP*

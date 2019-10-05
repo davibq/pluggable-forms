@@ -5,3 +5,4 @@
 !.prettierrc.js
 !.babelrc.js
 !.stylelintrc.js
+!*.test.js
